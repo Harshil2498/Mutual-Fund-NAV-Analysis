@@ -36,7 +36,6 @@ Aditya Birla Nifty Index Fund 04-Jun-2024   -5.48%
              ICICI Nifty Fund 04-Jun-2024   -5.85%
                SBI Index Fund 04-Jun-2024   -5.87%
                UTI Index fund 04-Jun-2024   -5.85%
-
 Total days with > ±5% change: 5
 
 ================================================================================
