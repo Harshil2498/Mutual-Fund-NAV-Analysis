@@ -12,10 +12,6 @@ I took 5 mutual funds, downloaded their daily NAV from the last ~4 years (Nov 20
 - Finds every single day when any fund’s NAV jumped or fell by more than ±5% compared to the previous day
 
 ### Results I Got
-================================================================================
-                    MUTUAL FUND 7-YEAR CAGR ANALYSIS RESULT                     
-           (Data available only from Nov-2021 → ~4 years CAGR shown)            
-================================================================================
 
 TOP 2 PERFORMING MUTUAL FUNDS
 --------------------------------------------------
@@ -27,9 +23,7 @@ WORST 2 PERFORMING MUTUAL FUNDS
 4. HDFC Index Fund           →  10.40%
 5. ICICI Nifty Fund          →  10.38%
 
-================================================================================
-                          NAV SWING DETECTION (> ±5%)                           
-================================================================================
+
                     Fund Name        Date % Change
 Aditya Birla Nifty Index Fund 04-Jun-2024   -5.48%
               HDFC Index Fund 04-Jun-2024   -5.85%
